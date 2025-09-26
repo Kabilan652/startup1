@@ -9,7 +9,7 @@ const app = express();
 
 // Enable CORS for your frontend
 app.use(cors({
-  origin: 'http://localhost:5173', // or your deployed frontend URL
+  origin: 'https://tech-new-software.onrender.com', // or your deployed frontend URL
   methods: ['GET', 'POST', 'OPTIONS'],
   allowedHeaders: ['Content-Type'],
 }));
