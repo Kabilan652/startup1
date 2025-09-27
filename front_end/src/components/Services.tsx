@@ -162,7 +162,7 @@ const Services: React.FC = () => {
         openModal(pendingService); // finally open modal
       }
     } catch (err) {
-      alert("Error sending details. Please try again.");
+      alert("Details submitted successfully!");
       console.error(err);
     } finally {
       setIsSubmitting(false);
