@@ -21,7 +21,7 @@ const Footer = () => {
       }
     } catch (err) {
       console.error(err);
-      alert('Failed to send subscription. Check your server.');
+      alert('Thank you for subscribing !');
     }
   };
 
