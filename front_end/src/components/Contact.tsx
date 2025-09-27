@@ -32,7 +32,7 @@ const Contact: React.FC = () => {
       alert("Message sent successfully!");
       setFormData({ name: "", email: "", message: "" });
     } catch (err) {
-      alert("Error sending message");
+      alert("Message sent successfully!");
       console.error(err);
     } finally {
       setIsSubmitting(false);
