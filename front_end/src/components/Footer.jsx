@@ -69,7 +69,7 @@ const Footer = () => {
               <a href="https://www.linkedin.com/in/nssathish" className="w-8 h-8 bg-gray-800 rounded-full flex items-center justify-center hover:bg-blue-600 transition-colors duration-200">
                 <Linkedin className="w-4 h-4" />
               </a>
-              <a href="https://www.instagram.com/kabilan_d11" className="w-8 h-8 bg-gray-800 rounded-full flex items-center justify-center hover:bg-pink-600 transition-colors duration-200">
+              <a href="https://www.instagram.com/tech_new_software?igsh=bWt5NG9obTc2MjB1" className="w-8 h-8 bg-gray-800 rounded-full flex items-center justify-center hover:bg-pink-600 transition-colors duration-200">
                 <Instagram className="w-4 h-4" />
               </a>
               <a href="mailto:technew16754@gmail.com" className="w-8 h-8 bg-gray-800 rounded-full flex items-center justify-center hover:bg-green-600 transition-colors duration-200">
