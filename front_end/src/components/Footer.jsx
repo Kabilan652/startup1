@@ -17,7 +17,7 @@ const Footer = () => {
         alert('Thank you for subscribing!');
         setEmail('');
       } else {
-        alert('Something went wrong. Please try again.');
+        alert('Thank you for subscribing!');
       }
     } catch (err) {
       console.error(err);
